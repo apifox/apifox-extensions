@@ -1,0 +1,14 @@
+{
+  "name": "cn.apifox.Apifoxextensions.SocketISO8538Unpacker",
+  "version": "1.0.0",
+  "description": "Apifox ISO 8538 Socket 解包插件",
+  "main": "Socket8538Unpacker.js",
+  "dependencies": {
+    "iso_8583": "^2.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT"
+}
