@@ -15,6 +15,6 @@
 ### 示例插件
 
 1. **Socket 封包插件示例** [cn.apifox.ApifoxExtensions.DemoExecuteJarSocketPacker](./packages/cn.apifox.ApifoxExtensions.DemoSocketPacker/)
-2. **Socket 封包插件示例 (含调用 Jar)** [cn.apifox.ApifoxExtensions.DemoExecuteJarSocketPacker](./packages/cn.apifox.ApifoxExtensions.DemoExecuteJarSocketPacker/)
+2. **Socket 封包插件示例 (含 Jar 调用)** [cn.apifox.ApifoxExtensions.DemoExecuteJarSocketPacker](./packages/cn.apifox.ApifoxExtensions.DemoExecuteJarSocketPacker/)
 3. **Socket 解包插件示例** [cn.apifox.ApifoxExtensions.DemoSocketUnpacker](./packages/cn.apifox.ApifoxExtensions.DemoSocketUnpacker/)
-4. **Socket 解包插件示例 (含调用 Jar)** [cn.apifox.ApifoxExtensions.DemoExecuteJarSocketUnpacker](./packages/cn.apifox.ApifoxExtensions.DemoExecuteJarSocketUnpacker/)
+4. **Socket 解包插件示例 (含 Jar 调用)** [cn.apifox.ApifoxExtensions.DemoExecuteJarSocketUnpacker](./packages/cn.apifox.ApifoxExtensions.DemoExecuteJarSocketUnpacker/)
